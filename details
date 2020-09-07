@@ -1,0 +1,3 @@
+--mongodb dev-connector cluster
+user/pw: gabe123/gabe123
+connect string: mongodb+srv://gabe123:<password>@dev-connector.deblm.mongodb.net/<dbname>?retryWrites=true&w=majority
