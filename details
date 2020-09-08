@@ -1,3 +1,7 @@
 --mongodb dev-connector cluster
 user/pw: gabe123/gabe123
 connect string: mongodb+srv://gabe123:gabe123@dev-connector.deblm.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+users in app:
+gabe.bertoluzzi@gmail.com/123456
+wsmith69@gmail.com/123456
