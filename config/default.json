@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://gabe123:gabe123@dev-connector.deblm.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "8a25a1a82b4faf68652a",
+  "githubClientSecret": "05012398a0eb71e1684356acdaea39572252623e"
 }

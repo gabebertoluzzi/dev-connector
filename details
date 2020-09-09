@@ -5,3 +5,5 @@ connect string: mongodb+srv://gabe123:gabe123@dev-connector.deblm.mongodb.net/<d
 users in app:
 gabe.bertoluzzi@gmail.com/123456
 wsmith69@gmail.com/123456
+
+githug oauth: https://github.com/settings/applications/1371677
